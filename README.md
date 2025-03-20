@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anthony, digital humanist, semi-fronted, semi-designer:)
-- 👀 I’m interested literally in everything
-- 🌱 I’m currently learning Data Visualization and Frontend technologies 
+- 👋 Hi, I’m Anthony, Video Editor and Motion Designer, Digital humanist :)
+- 👀 I’m interested literally in 2D/3D animations snd VFX
+- 🌱 Currently learning C4D and Unreal Engine 
 - 💞️ I’m looking to collaborate on inovative and young project
 - 📫 **antoniopersianov@gmail.com** 
 
